@@ -1,2 +1,2 @@
 # NLP_Transformers
-Book Title : NLP with Transformers _ Building Language Applications with Hugging Face
+책 <NLP with Transformers - Building Language Applications with Hugging Face>의 코드를 클론 코딩하며 공부하는 레포지토리 입니다.
